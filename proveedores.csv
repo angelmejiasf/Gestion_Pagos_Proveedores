@@ -1,0 +1,5 @@
+codigo;cif;nombre;tipo;dirección;teléfono;codigo_postal;retencion;persona_contacto;email;personal
+1;A2387312;Distribución de gasoleo S.A.;suministro;C/ La torre 20;925273122;45600;15;Juan Pérez Gómez;jperez@disgas.net;
+2;B1592381;Limpiezas el Castillo;subcontrata;Avenida Constitución 23 7ºA;925331023;45600;;Emilio Laguna Prieto;elaguna@lcastillo.es;8
+3;A4428126;SegForzudos;subcontrata;Camino del Vergel, 38;664536122;45646;;Pilar Macizo;pmacizo@segforzudos.com;2
+4;E3474612;Instalaciones Eléctricas IE. S.A;suministro;C/ Vega Baja, 38;651226321;45600;18;José Bartolez;jbarto@gmail.com;
